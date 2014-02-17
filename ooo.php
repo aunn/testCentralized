@@ -11,5 +11,10 @@
 		echo 'herehere';
 	}
 
+	function kuyPel() 
+	{
+		return 'kuyPel';
+	}
 
 ?>
+

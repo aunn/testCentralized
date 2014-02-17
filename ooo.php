@@ -16,5 +16,10 @@
 		return 'kuyPel';
 	}
 
+	function kuyAunn2222() 
+	{
+		return 'kuyAunn2222';
+	}
+
 ?>
 
